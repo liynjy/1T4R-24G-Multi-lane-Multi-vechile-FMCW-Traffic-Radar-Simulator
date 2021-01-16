@@ -20,7 +20,7 @@ ChirpLen = 2048;
 % Range FFT
 
 RANGE_MIN = 50;
-RANGE_MAX = 280;
+RANGE_MAX = 500;
 DSize = 128; 
 
 rx0_range_fft = zeros(DSize,ChirpLen);
