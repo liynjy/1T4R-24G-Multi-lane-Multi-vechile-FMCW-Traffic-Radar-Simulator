@@ -13,17 +13,3 @@
 3) Your can try develop your radar data processing algorithm base on this simulator.
 4) As a charllenge, can you develope your algorithm to detect the [X position,Y position, Lane number, Velocity] of each vechile.
 5) Run main.m in matlab to start trying out.
-
-#
-disp("================================================================================")
-disp("         1T4R 24G Multi-lane Multi-vechile FMCW Traffic Radar Simulator")
-disp("Author  : Lin Junyang")
-disp("Version : 1.0")
-disp("Date    : 2021/1/16")
-disp("--------------------------------------------------------------------------------")
-disp("Range detection is simply shown by caculationg FFT of a sample chirp.")
-disp("AS A CHALLANGE, can you develop your alogrithm to detect the number of vechiles,")
-disp("and the [X position,Y position, Lane number, Velocity] of each vechile.")
-disp("================================================================================")
-
-
