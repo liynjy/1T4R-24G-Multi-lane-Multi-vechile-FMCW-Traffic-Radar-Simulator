@@ -14,4 +14,3 @@
 4) As a charllenge, can you develope your algorithm to detect the [X position,Y position, Lane number, Velocity] of each vechile.
 5) Run main.m in matlab to start trying out.
 
-An experimental algorithm of detecting [X position,Y position, Lane number, Velocity] may be uploaded if more than 25 starts ★ are issued.
